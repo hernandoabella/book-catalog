@@ -20,15 +20,15 @@ const Books = () => {
       {/* <CheatSheets />
       <KeyWords /> */}
       <CookBook />
-      {/* <AlgorithmsDataStructures />
-      <PatternPrograms />
+      {/* <AlgorithmsDataStructures /> */}
+      {/* <PatternPrograms /> */}
       <ForBeginners />
-      <ProgramsForBeginners />
-      <KillerOneLiners />
+      {/* <ProgramsForBeginners /> */}
+      {/* <KillerOneLiners /> */}
       <ConceptsEveryDeveloper />
-      <AdvancedDesignPatterns />
-      <InterviewQuestions />
-      <LetsGrowUpTogether /> */}
+      {/* <AdvancedDesignPatterns /> */}
+      {/* <InterviewQuestions /> */}
+      {/* <LetsGrowUpTogether /> */}
     </div>
   );
 };
