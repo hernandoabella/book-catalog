@@ -65,10 +65,10 @@ const CookBook = () => {
         {books.map((book, index) => (
           <motion.div
             key={index}
-            className="border group rounded-xl overflow-hidden shadow-lg"
+            className="group overflow-hidden shadow-lg"
             variants={bookVariants}
           >
-            <div className="relative w-full h-60 bg-teal-500 group-hover:bg-teal-700 transition-all duration-300">
+            <div className="relative w-full h-96 bg-teal-500 group-hover:bg-teal-700 transition-all duration-300">
               <Image
                 src={book.image}
                 alt={book.title}
