@@ -1,6 +1,6 @@
 import React from 'react';
-import Books from '@/components/Books';
-import TestimonialWall from '@/components/TestimonialWall';
+import Books from '@/app/components/Books';
+import TestimonialWall from '@/app/components/TestimonialWall';
 
 const Home = () => {
   return (
