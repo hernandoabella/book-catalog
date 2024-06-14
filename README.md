@@ -1,4 +1,5 @@
 # Books
+Our collection of books will help you enter the world of programming.
 
 ### Languages Availables
 - JavasSript
