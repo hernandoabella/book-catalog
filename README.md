@@ -1,12 +1,17 @@
 # Books
-Our collection of books will help you enter the world of programming.
+Our collection of books will help you quickly increase your skills in the area of ​​programming.
 
-### Languages Availables
-- JavasSript
+## Languages Available
+- JavaScript
+  - [JavaScript for beginners](###JavaScript-for-beginners)
 - TypesSript
 - Python
 - Java
 - C
+- C#
+- Rust
+- SQL
+- Ruby
 
 ### Cheat-Sheets
 - C#
@@ -27,9 +32,10 @@ Our collection of books will help you enter the world of programming.
 - 
 
 ### CookBook
+C# Cook Book
 - [SQL Cook Book](https://www.amazon.com/-/es/Hernando-Abella/dp/B0CWVK8B9R)
 - [JavaScript Cook Book](https://www.amazon.com/Hernando-Abella/dp/B0CPDSXDGL)
-- Typescript cookbook
+- Typescript Cook Book
 - [Python Cook Book](https://www.amazon.com/-/es/Hernando-Abella/dp/B0D7VK6BMJ) 
 
 ### Algorithms and Data Structures
