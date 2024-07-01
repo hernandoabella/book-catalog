@@ -1,19 +1,7 @@
 # Books
 Our collection of books will help you quickly increase your skills in the area of ​​programming.
 
-## Sorted by Language:
-### JavaScript
-  - [JavaScript for beginners](#key-Words)
-### TypesSript
-### Python
-### Java
-### C
-### C#
-### Rust
-### SQL
-### Ruby
-
-### Cheat-Sheets
+### Cheat-Sheets (working on...)
 - C#
 - Python
 - TypeScript
@@ -26,13 +14,12 @@ Our collection of books will help you quickly increase your skills in the area o
 - Elixir
 - Julia
 
-### Key-Words
+### Key-Words (working oon...)
 - JavaScript Key-Words
 - Python Key-Words
-- 
 
 ### CookBook
-C# Cook Book
+- C# Cook Book
 - [SQL Cook Book](https://www.amazon.com/-/es/Hernando-Abella/dp/B0CWVK8B9R)
 - [JavaScript Cook Book](https://www.amazon.com/Hernando-Abella/dp/B0CPDSXDGL)
 - Typescript Cook Book
