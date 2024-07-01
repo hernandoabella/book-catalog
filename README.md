@@ -30,7 +30,7 @@ Our collection of books will help you enter the world of programming.
 - [SQL Cook Book](https://www.amazon.com/-/es/Hernando-Abella/dp/B0CWVK8B9R)
 - [JavaScript Cook Book](https://www.amazon.com/Hernando-Abella/dp/B0CPDSXDGL)
 - Typescript cookbook
-- Python cookbook 
+- [Python Cook Book](https://www.amazon.com/-/es/Hernando-Abella/dp/B0D7VK6BMJ) 
 
 ### Algorithms and Data Structures
 - [Algorithms and Data Structures in Python](https://www.amazon.com/-/es/Hernando-Abella/dp/B0CW65JBLW)
