@@ -3,7 +3,7 @@ Our collection of books will help you quickly increase your skills in the area o
 
 ## Sorted by Language:
 ### JavaScript
-  - [JavaScript for beginners](#key-Wwrds)
+  - [JavaScript for beginners](#key-Words)
 ### TypesSript
 ### Python
 ### Java
