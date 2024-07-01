@@ -1,17 +1,17 @@
 # Books
 Our collection of books will help you quickly increase your skills in the area of ​​programming.
 
-## Languages Available
-- JavaScript
+## Sorted by Language:
+### JavaScript
   - [JavaScript for beginners](#JavaScript-for-beginners)
-- TypesSript
-- Python
-- Java
-- C
-- C#
-- Rust
-- SQL
-- Ruby
+### TypesSript
+### Python
+### Java
+### C
+### C#
+### Rust
+### SQL
+### Ruby
 
 ### Cheat-Sheets
 - C#
@@ -48,7 +48,7 @@ C# Cook Book
 
 ### For Beginners
 - [Rust for beginners](https://www.amazon.com/Rust-Beginners-Lets-Learn-together/dp/B0CT3NP1JB)
-- [JavaScript for beginners](https://www.amazon.com/JavaScript-Beginners-Hernando-Abella/dp/B0CRHYGXNC)
+- [JavaScript-for-beginners](https://www.amazon.com/JavaScript-Beginners-Hernando-Abella/dp/B0CRHYGXNC)
 
 ### Programs For Beginners
 - [200+ JavaScript Programs For Beginners](https://www.amazon.com/JavaScript-Programs-Beginners-Hernando-Abella/dp/B0CQ5KVQGH)
