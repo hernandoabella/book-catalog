@@ -3,7 +3,7 @@ Our collection of books will help you quickly increase your skills in the area o
 
 ## Languages Available
 - JavaScript
-  - [JavaScript for beginners](###JavaScript-for-beginners)
+  - [JavaScript for beginners](#JavaScript-for-beginners)
 - TypesSript
 - Python
 - Java
