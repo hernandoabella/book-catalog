@@ -5,6 +5,7 @@ import Image from "next/image";
 import { motion, useAnimation } from "framer-motion";
 import { FaAmazon } from "react-icons/fa";
 import { useInView } from "react-intersection-observer";
+import { SiGumroad } from "react-icons/si";
 
 const AdvancedDesignPatterns = () => {
   const controls = useAnimation();
@@ -64,11 +65,7 @@ const AdvancedDesignPatterns = () => {
                 className="w-full h-full transition-all duration-300 rounded-xl"
               />
             </div>
-            <div className="p-4 bg-white">
-              <h3 className="text-black text-xl font-bold mb-2">
-                {book.title}
-              </h3>
-              <p className="text-gray-700 mb-2">{book.description}</p>
+            <div className="bg-white flex">
               {book.link && (
                 <a
                   href={book.link}
@@ -77,6 +74,19 @@ const AdvancedDesignPatterns = () => {
                   className="inline-flex items-center px-4 py-2 bg-rose-500 text-white font-semibold rounded-lg shadow-md hover:bg-teal-600"
                 >
                   <FaAmazon className="mr-2" />
+                  Get it now
+                </a>
+              )}
+            </div>
+            <div className="p-4 bg-white">
+              {book.link && (
+                <a
+                  href={book.link}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center px-4 py-2 bg-rose-500 text-white font-semibold rounded-lg shadow-md hover:bg-teal-600"
+                >
+                  <SiGumroad className="mr-2" />
                   Get it now
                 </a>
               )}
