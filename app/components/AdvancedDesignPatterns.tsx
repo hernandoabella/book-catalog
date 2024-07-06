@@ -12,11 +12,11 @@ const AdvancedDesignPatterns = () => {
 
   const books = [
     {
-      title: "Advanced JavaScript Design Patterns",
+      title: "",
       link: "https://www.amazon.com/-/es/Hernando-Abella/dp/B0CNWGV8W5",
       image: "/js-design-pattern.jpg",
       description:
-        "Immerse yourself in the world of Design Patterns in JavaScript with this comprehensive guide that explores the practical application of the most relevant patterns.",
+        "",
     },
   
   ];
@@ -55,13 +55,13 @@ const AdvancedDesignPatterns = () => {
             className="group overflow-hidden"
             variants={bookVariants}
           >
-            <div className="relative w-full h-96 bg-teal-500 group-hover:bg-teal-700 transition-all duration-300">
+            <div className="relative w-full h-96">
               <Image
                 src={book.image}
                 alt={book.title}
                 layout="fill"
                 objectFit="cover"
-                className="w-full h-full transition-all duration-300"
+                className="w-full h-full transition-all duration-300 rounded-xl"
               />
             </div>
             <div className="p-4 bg-white">
