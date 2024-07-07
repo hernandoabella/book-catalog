@@ -58,10 +58,55 @@ export const categories: Category[] = [
     title: "Data Structures and Algorithms",
     books: [
       {
-        title: "Python Cook Book",
-        link: "https://www.amazon.com/Hernando-Abella/dp/B0CPDSXDGL",
+        title: "Data Structures and Algorithms in Python",
+        link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CVTLX8GS",
+        image: "/python-algorithms.jpg",
         gumroad: "https://gumroad.com/l/python-cookbook",
-        image: "/python-cookbook.png",
+      },
+    ],
+  },
+  {
+    title: "Advanced Interview Questions",
+    books: [
+      {
+        title: "120 Advanced JavaScript Interview Questions",
+        link: "https://www.amazon.com/-/es/Hernando-Abella/dp/B0CL9ZKTLV",
+        image: "/js-interview.jpg",
+        gumroad: "https://gumroad.com/l/python-cookbook",
+      },
+      {
+        title: "120 Advanced Python Interview Questions",
+        link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CLL3FKKQ",
+        image: "/python-interview.jpg",
+        gumroad: "https://gumroad.com/l/python-cookbook",
+      },
+    ],
+  },
+  {
+    title: "Advanced Design Patterns",
+    books: [
+      {
+        title: "Advanced JavaScript Design Patterns",
+        link: "https://www.amazon.com/-/es/Hernando-Abella/dp/B0CNWGV8W5",
+        image: "/js-design-pattern.jpg",
+        gumroad: "https://gumroad.com/l/python-cookbook",
+      },
+    ],
+  },
+  {
+    title: "For Beginners",
+    books: [
+      {
+        title: "JavaScript for Beginners",
+        link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CRF2QG7Z",
+        image: "/js-for-beginners.jpg",
+        gumroad: "https://gumroad.com/l/python-cookbook",
+      },
+      {
+        title: "Rust for Beginners",
+        link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CT365MMD",
+        image: "/rust-for-beginners.jpg",
+        gumroad: "https://gumroad.com/l/python-cookbook",
       },
     ],
   },
