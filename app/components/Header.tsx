@@ -1,5 +1,5 @@
 import React from "react";
-import { FaCodeCommit } from "react-icons/fa6";
+import { GoCodeReview } from "react-icons/go";
 
 const Header = () => {
   return (
@@ -7,7 +7,7 @@ const Header = () => {
       <div className="flex items-center">
         <div className="text-4xl font-bold flex gap-3 justify-center items-center">
           <span className="text-[#93D7DA]">
-            <FaCodeCommit />
+            <GoCodeReview />
           </span>{" "}
           Coding Books
         </div>
