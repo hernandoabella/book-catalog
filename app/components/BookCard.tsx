@@ -32,7 +32,7 @@ const BookCard: React.FC<BookCardProps> = ({ book }) => {
           className="w-full h-full transition-all duration-300"
         />
       </div>
-      <div className="p-4 bg-white flex justify-center space-x-4">
+      <div className="p-4 bg-neutral-950 flex justify-center space-x-4">
         {book.link && (
           <a
             href={book.link}
