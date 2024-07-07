@@ -1,20 +1,15 @@
 import React from "react";
+import { FaCodeCommit } from "react-icons/fa6";
 
 const Header = () => {
   return (
-    <div>
-      <div className="relative flex h-screen">
-        <video
-          className="absolute top-0 left-0 w-full h-full object-cover"
-          src="/bg.mp4"
-          autoPlay
-          loop
-          muted
-        />
-        <div className="absolute top-1/2 left-10 max-w-full md:left-20">
-          <div className="bg-white text-7xl font-bold text-black mix-blend-screen px-10 py-5">
-            Book Library
-          </div>
+    <div className="bg-neutral-950 text-white text-center p-4 flex items-center justify-center fixed w-full z-50 shadow-xl">
+      <div className="flex items-center">
+        <div className="text-4xl font-bold flex gap-3 justify-center items-center">
+          <span className="text-[#93D7DA]">
+            <FaCodeCommit />
+          </span>{" "}
+          Coding Books
         </div>
       </div>
     </div>
