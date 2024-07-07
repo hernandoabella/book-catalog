@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 
 const Hero: React.FC = () => {
   return (
-    <section className="bg-neutral-950 text-white py-20">
+    <section className="bg-[radial-gradient(circle_at_bottom_left,_var(--tw-gradient-stops))] from-neutral-950 via-teal-600 to-neutral-950 text-white py-20">
       <div className="container mx-auto flex flex-col items-center my-12 md:my-24 px-6">
         <motion.div
           className="flex flex-col items-center text-center mb-12"
