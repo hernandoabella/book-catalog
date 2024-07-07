@@ -1,5 +1,4 @@
 import { Category } from "./types";
-import { FAQ } from "./types";
 
 export const categories: Category[] = [
   {
@@ -8,19 +7,19 @@ export const categories: Category[] = [
       {
         title: "SQL Cook Book",
         link: "https://www.amazon.com/-/es/Hernando-Abella/dp/B0CWVK8B9R",
-        gumroad: "https://gumroad.com/l/sql-cookbook",
+        gumroad: "https://hernandoabella.gumroad.com/l/qivzb",
         image: "/sql-cookbook.jpg",
       },
       {
         title: "JavaScript Cook Book",
         link: "https://www.amazon.com/Hernando-Abella/dp/B0CPDSXDGL",
-        gumroad: "https://gumroad.com/l/js-cookbook",
+        gumroad: "https://hernandoabella.gumroad.com/l/herow",
         image: "/js-cookbook.jpg",
       },
       {
         title: "Python Cook Book",
         link: "https://www.amazon.com/Hernando-Abella/dp/B0CPDSXDGL",
-        gumroad: "https://gumroad.com/l/python-cookbook",
+        gumroad: "https://hernandoabella.gumroad.com/l/hwpwm",
         image: "/python-cookbook.png",
       },
     ],
@@ -31,25 +30,25 @@ export const categories: Category[] = [
       {
         title: "250+ Killer JavaScript One-Liners",
         link: "https://www.amazon.com/-/es/Hernando-Abella/dp/B0CN58RHGF",
-        gumroad: "https://gumroad.com/l/python-cookbook",
+        gumroad: "https://hernandoabella.gumroad.com/l/oqsrp",
         image: "/250-killer-js.jpg",
       },
       {
         title: "250+ Killer TypeScript One-Liners",
         link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CYHZ5QKJ",
-        gumroad: "https://gumroad.com/l/python-cookbook",
+        gumroad: "https://hernandoabella.gumroad.com/l/amuoc",
         image: "/250-killer-ts.jpg",
       },
       {
         title: "250+ Killer C# One-Liners",
         link: "https://www.amazon.com/-/es/Hernando-Abella/dp/B0D31DMBFY",
-        gumroad: "https://gumroad.com/l/python-cookbook",
+        gumroad: "https://hernandoabella.gumroad.com/l/rvfsne",
         image: "/250-killer-csharp.jpg",
       },
       {
         title: "250+ Killer Ruby One-Liners",
         link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CXF57XT9",
-        gumroad: "https://gumroad.com/l/python-cookbook",
+        gumroad: "https://hernandoabella.gumroad.com/l/rdfvl",
         image: "/250-killer-ruby.jpg",
       },
     ],
@@ -61,7 +60,7 @@ export const categories: Category[] = [
         title: "Data Structures and Algorithms in Python",
         link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CVTLX8GS",
         image: "/python-algorithms.jpg",
-        gumroad: "https://gumroad.com/l/python-cookbook",
+        gumroad: "https://hernandoabella.gumroad.com/l/cizek",
       },
     ],
   },
@@ -72,13 +71,13 @@ export const categories: Category[] = [
         title: "120 Advanced JavaScript Interview Questions",
         link: "https://www.amazon.com/-/es/Hernando-Abella/dp/B0CL9ZKTLV",
         image: "/js-interview.jpg",
-        gumroad: "https://gumroad.com/l/python-cookbook",
+        gumroad: "https://hernandoabella.gumroad.com/l/gcanm",
       },
       {
         title: "120 Advanced Python Interview Questions",
         link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CLL3FKKQ",
         image: "/python-interview.jpg",
-        gumroad: "https://gumroad.com/l/python-cookbook",
+        gumroad: "https://hernandoabella.gumroad.com/l/xzghr",
       },
     ],
   },
@@ -89,7 +88,7 @@ export const categories: Category[] = [
         title: "Advanced JavaScript Design Patterns",
         link: "https://www.amazon.com/-/es/Hernando-Abella/dp/B0CNWGV8W5",
         image: "/js-design-pattern.jpg",
-        gumroad: "https://gumroad.com/l/python-cookbook",
+        gumroad: "https://hernandoabella.gumroad.com/l/berze",
       },
     ],
   },
@@ -100,37 +99,77 @@ export const categories: Category[] = [
         title: "JavaScript for Beginners",
         link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CRF2QG7Z",
         image: "/js-for-beginners.jpg",
-        gumroad: "https://gumroad.com/l/python-cookbook",
+        gumroad: "https://hernandoabella.gumroad.com/l/czmfmv",
       },
       {
         title: "Rust for Beginners",
         link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CT365MMD",
         image: "/rust-for-beginners.jpg",
-        gumroad: "https://gumroad.com/l/python-cookbook",
+        gumroad: "https://hernandoabella.gumroad.com/l/zyhpc",
       },
     ],
   },
-];
-
-export const faqs: FAQ[] = [
   {
-    question: "What is your return policy?",
-    answer: "You can return any item within 30 days of purchase.",
+    title: "50 Concepts Every Developer Should Know",
+    books: [
+      {
+        title: "50 Java Concepts Every Developer Should Know",
+        link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CPPZ1BVM",
+        image: "/50-concepts-java.jpg",
+        gumroad: "https://hernandoabella.gumroad.com/l/zrixk",
+      },
+      {
+        title: "50 Python Concepts Every Developer Should Know",
+        link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CW9LWMTB",
+        image: "/50-concepts-python.jpg",
+        gumroad: "https://hernandoabella.gumroad.com/l/rwxgre",
+      },
+      {
+        title: "50 C# Concepts Every Developer Should Know",
+        link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CVFXGJZ9",
+        image: "/50-concepts-c-sharp.jpg",
+        gumroad: "https://hernandoabella.gumroad.com/l/ednox",
+      },
+      {
+        title: "50 JavaScript Concepts Every Developer Should Know",
+        link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CNC4WZT6",
+        image: "/50-concepts-js.jpg",
+        gumroad: "https://hernandoabella.gumroad.com/l/poeqat",
+      },
+    ],
   },
   {
-    question: "Do you offer technical support?",
-    answer: "Yes, we offer 24/7 technical support for all our products.",
+    title: "Pattern Programs",
+    books: [
+      {
+        title: "150+ JavaScript Pattern Programs",
+        link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CTYK7NFR",
+        image: "/js-patterns.jpg",
+        gumroad: "https://hernandoabella.gumroad.com/l/ddnpsp",
+      },
+      {
+        title: "150+ Python Pattern Programs",
+        link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CVNG3PRV",
+        image: "/python-patterns.jpg",
+        gumroad: "https://hernandoabella.gumroad.com/l/bjhjbm",
+      },
+      {
+        title: "150+ C Pattern Programs",
+        link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CTPZ6SVD",
+        image: "/c-patterns.jpg",
+        gumroad: "https://hernandoabella.gumroad.com/l/odrmd",
+      },
+    ],
   },
   {
-    question: "Where are you located?",
-    answer: "We are located in San Francisco, CA.",
-  },
-  {
-    question: "How can I contact customer service?",
-    answer: "You can reach our customer service at support@example.com.",
-  },
-  {
-    question: "What payment methods do you accept?",
-    answer: "We accept all major credit cards, PayPal, and Apple Pay.",
+    title: "Let's grow up together!",
+    books: [
+      {
+        title: "50 Ways to Make Money as a Dev",
+        link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CW1JRCXY",
+        image: "/50-ways.jpg",
+        gumroad: "https://hernandoabella.gumroad.com/l/niwes",
+      },
+    ],
   },
 ];
