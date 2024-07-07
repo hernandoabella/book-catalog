@@ -1,4 +1,5 @@
 import { Category } from "./types";
+import { FAQ } from "./types";
 
 export const categories: Category[] = [
   {
@@ -63,5 +64,28 @@ export const categories: Category[] = [
         image: "/python-cookbook.png",
       },
     ],
+  },
+];
+
+export const faqs: FAQ[] = [
+  {
+    question: "What is your return policy?",
+    answer: "You can return any item within 30 days of purchase.",
+  },
+  {
+    question: "Do you offer technical support?",
+    answer: "Yes, we offer 24/7 technical support for all our products.",
+  },
+  {
+    question: "Where are you located?",
+    answer: "We are located in San Francisco, CA.",
+  },
+  {
+    question: "How can I contact customer service?",
+    answer: "You can reach our customer service at support@example.com.",
+  },
+  {
+    question: "What payment methods do you accept?",
+    answer: "We accept all major credit cards, PayPal, and Apple Pay.",
   },
 ];
