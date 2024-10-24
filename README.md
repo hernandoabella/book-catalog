@@ -1,5 +1,5 @@
 # Books
-Our collection of books will help you quickly increase your skills in the area of ​​programming.
+Our collection of books will help you quickly increase your skills in any area of ​​programming.
 
 ### Cheat-Sheets (working on it...)
 - C#
