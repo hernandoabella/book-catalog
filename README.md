@@ -1,11 +1,11 @@
 # Books
 Our collection of books will help you quickly increase your skills in the area of ​​programming.
 
-### Cheat-Sheets (working on...)
+### Cheat-Sheets (working on it...)
 - C#
-- Python
+- [Python Cheat Sheet](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DK22TT6N/) 
 - TypeScript
-- JavaScript
+- [JavaScript Cheat Sheet](https://www.amazon.com/-/es/dp/B0DKMBC3C2)
 - Go
 - Java
 - CPP
@@ -14,7 +14,7 @@ Our collection of books will help you quickly increase your skills in the area o
 - Elixir
 - Julia
 
-### Key-Words (working oon...)
+### Key-Words (working on it...)
 - JavaScript Key-Words
 - Python Key-Words
 
