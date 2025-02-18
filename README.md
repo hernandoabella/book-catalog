@@ -14,11 +14,7 @@ Our collection of books will help you quickly increase your skills in any area o
 - Elixir
 - Julia
 
-### Key-Words (working on it...)
-- JavaScript Key-Words
-- Python Key-Words
-
-### CookBook
+### Cook Book
 - C# Cook Book
 - [SQL Cook Book](https://www.amazon.com/-/es/Hernando-Abella/dp/B0CWVK8B9R)
 - [JavaScript Cook Book](https://www.amazon.com/Hernando-Abella/dp/B0CPDSXDGL)
