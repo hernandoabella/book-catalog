@@ -1,4 +1,4 @@
-# Book Collection
+# Mega Book Collection
 
 ### Cheat Sheets 
 - [Python Cheat Sheet](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DK22TT6N/)
