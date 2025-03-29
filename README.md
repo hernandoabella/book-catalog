@@ -1,10 +1,13 @@
 # Mega Book Collection
 
 ### Cheat Sheets 
+- [Excel Cheat Sheet](#)
+- [The Ultimate Artificial Intelligence Cheat Sheet](https://www.amazon.com/-/es/Ultimate-AI-Cheat-sheet-Entrepreneurs/dp/B0F27YC1V9)
 - [Python Cheat Sheet](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DK22TT6N/)
 - [SQL Cheat Sheet](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DJCY3TPX) 
 - [JavaScript Cheat Sheet](https://www.amazon.com/-/es/dp/B0DKMBC3C2)
 - [Go Cheat Sheet](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DYF9BNQV)
+- 
 
 ### Algorithms and Data Structures
 - [Algorithms and Data Structures in Python](https://www.amazon.com/-/es/Hernando-Abella/dp/B0CW65JBLW)
@@ -30,6 +33,7 @@
 - [200+ Rust Programs For Beginners](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DHT9R764)
 
 ### 250+ Killer One-Liners
+- [250+ Python Killer One-Liners](https://www.amazon.com/-/es/250-Killer-Python-One-Liners-solutions/dp/B0D47JMKGX)
 - [250+ C# Killer One-Liners](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0D2ZM71J8)
 - [250+ Ruby Killer One-Liners](https://www.amazon.com/250-Killer-Ruby-One-Liners-Transform-ebook/dp/B0CXF57XT9)
 - [250+ TypeScript Killer One-Liners](https://www.amazon.com/250-Killer-TypeScript-One-Liners-Transform-ebook/dp/B0CYHZ5QKJ)
@@ -48,6 +52,6 @@
 - [120 Advanced JavaScript Interview Questions](https://www.amazon.com/120-Advanced-JavaScript-Interview-Questions/dp/B0CL9ZKTLV)
 - [120 Advanced Python Interview Questions](https://www.amazon.com/dp/B0CLM68FNR)
 
-### 🏆 Extra
+### 🏆 Exclusive
 - [Programming Terms and Definitions](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CN2R71Y7)
 - [50 Ways to Make Money as a Dev](https://www.amazon.com/Ways-Make-Money-Dev-developer/dp/B0CXM1JDKL)
