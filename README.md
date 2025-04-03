@@ -7,7 +7,7 @@
 - [SQL Cheat Sheet](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DJCY3TPX) 
 - [JavaScript Cheat Sheet](https://www.amazon.com/-/es/dp/B0DKMBC3C2)
 - [Go Cheat Sheet](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DYF9BNQV)
-- 
+- [Rust Cheat Sheet](#)
 
 ### Algorithms and Data Structures
 - [Algorithms and Data Structures in Python](https://www.amazon.com/-/es/Hernando-Abella/dp/B0CW65JBLW)
