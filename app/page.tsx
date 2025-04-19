@@ -12,12 +12,8 @@ const Home = () => {
   return (
     <div>
       <Header />
-      <Hero />
       <Books />
-      <NewsletterSection />
       <TestimonialWall />
-      <Quotes />
-      <FAQSection />
       <Footer />
     </div>
   );
