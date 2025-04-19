@@ -8,5 +8,6 @@ export interface Book {
 
 export interface Category {
   title: string;
+  description: string;
   books: Book[];
 }
