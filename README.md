@@ -1,4 +1,4 @@
-# Mega Book Collection
+# Book Collection
 
 ### Cheat Sheets 
 - [Excel Cheat Sheet](#)
@@ -10,9 +10,9 @@
 - [Rust Cheat Sheet](#)
 
 ### Algorithms and Data Structures
-- [Algorithms and Data Structures in Python](https://www.amazon.com/-/es/Hernando-Abella/dp/B0CW65JBLW)
+- [300+ Python Algorithms](https://www.amazon.com/300-Python-Algorithms-Mastering-Problem-Solving-ebook/dp/B0DJFS471K)
 
-### Cook Book
+### Cookbook
 - [SQL Cook Book](https://www.amazon.com/-/es/Hernando-Abella/dp/B0CWVK8B9R)
 - [JavaScript Cook Book](https://www.amazon.com/Hernando-Abella/dp/B0CPDSXDGL)
 - [Python Cook Book](https://www.amazon.com/-/es/Hernando-Abella/dp/B0D7VK6BMJ) 
@@ -22,7 +22,7 @@
 - [150+ C Pattern Programs](https://www.amazon.com/150-Pattern-Programs-creativity-statements/dp/B0CTZW4Y9V)
 - [150 Python Pattern Programs](https://www.amazon.com/Hernando-Abella-ebook/dp/B0CVNG3PRV) 
 
-### For Beginners
+### Tutorials For Beginners
 - [JavaScript-for-beginners](https://www.amazon.com/JavaScript-Beginners-Hernando-Abella/dp/B0CRHYGXNC)
 - [Rust for beginners](https://www.amazon.com/Rust-Beginners-Lets-Learn-together/dp/B0CT3NP1JB)
 
