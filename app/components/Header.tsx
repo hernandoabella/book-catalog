@@ -1,17 +1,17 @@
 import React from "react";
-import { GoCodeReview } from "react-icons/go";
+import { FaGithub } from "react-icons/fa";
 
 const Header = () => {
   return (
-    <div className="bg-neutral-950 text-white text-center p-4 flex items-center justify-center fixed w-full z-50 shadow-xl">
-      <div className="flex items-center">
-        <div className="text-4xl font-bold flex gap-3 justify-center items-center">
-          <span className="text-[#93D7DA]">
-            <GoCodeReview />
-          </span>{" "}
-          Coding Books
-        </div>
-      </div>
+    <div className="bg-neutral-950 text-white p-4 flex items-center justify-between fixed w-full z-50 shadow-xl">
+      <a
+        href="https://github.com/hernandoabella/books" // Replace with your GitHub profile or repo
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-white text-2xl hover:text-[#93D7DA] transition"
+      >
+        <FaGithub />
+      </a>
     </div>
   );
 };
