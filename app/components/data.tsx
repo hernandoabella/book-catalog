@@ -3,6 +3,7 @@ import { Category } from "./types";
 export const categories: Category[] = [
   {
     title: "Cook Books",
+    description: "A collection of programming books that offer handy 'cookbook' style solutions, ideal for developers looking for quick answers and solutions in SQL, JavaScript, and Python.",
     books: [
       {
         title: "SQL Cook Book",
@@ -26,6 +27,7 @@ export const categories: Category[] = [
   },
   {
     title: "250+ Killer One-Liners",
+    description: "A collection of one-liner solutions for various programming languages to boost your coding efficiency and creativity. Perfect for those seeking to master the art of concise coding.",
     books: [
       {
         title: "250+ Killer JavaScript One-Liners",
@@ -55,6 +57,7 @@ export const categories: Category[] = [
   },
   {
     title: "Data Structures and Algorithms",
+    description: "Books focused on mastering data structures and algorithms, vital for problem-solving in coding interviews and competitive programming. Perfect for those looking to strengthen their CS fundamentals.",
     books: [
       {
         title: "Data Structures and Algorithms in Python",
@@ -66,6 +69,7 @@ export const categories: Category[] = [
   },
   {
     title: "Advanced Interview Questions",
+    description: "Tackle the toughest interview questions with this series of advanced programming interview guides, designed to prepare you for real-world technical interviews in JavaScript, Python, and more.",
     books: [
       {
         title: "120 Advanced JavaScript Interview Questions",
@@ -83,6 +87,7 @@ export const categories: Category[] = [
   },
   {
     title: "Advanced Design Patterns",
+    description: "Master the most advanced design patterns used in modern software development, with a focus on JavaScript. These books offer deep dives into best practices that help developers write scalable, maintainable code.",
     books: [
       {
         title: "Advanced JavaScript Design Patterns",
@@ -94,6 +99,7 @@ export const categories: Category[] = [
   },
   {
     title: "For Beginners",
+    description: "A curated selection of beginner-friendly books in JavaScript, Rust, and more, designed to guide newcomers into the world of programming with clear and simple explanations.",
     books: [
       {
         title: "JavaScript for Beginners",
@@ -111,6 +117,7 @@ export const categories: Category[] = [
   },
   {
     title: "50 Concepts Every Developer Should Know",
+    description: "This series breaks down 50 essential concepts in popular programming languages, giving you a solid foundation for becoming a better developer, no matter which language you use.",
     books: [
       {
         title: "50 Java Concepts Every Developer Should Know",
@@ -140,6 +147,7 @@ export const categories: Category[] = [
   },
   {
     title: "Pattern Programs",
+    description: "Learn programming patterns through hands-on examples with books covering JavaScript, Python, and C. These books are packed with practical code samples to help you master programming patterns.",
     books: [
       {
         title: "150+ JavaScript Pattern Programs",
@@ -163,6 +171,7 @@ export const categories: Category[] = [
   },
   {
     title: "Let's grow up together!",
+    description: "Books designed to help you grow as a developer and as a person. Explore ways to make money with programming, improve your skills, and reach your full potential in the tech industry.",
     books: [
       {
         title: "50 Ways to Make Money as a Dev",
