@@ -1,4 +1,4 @@
-# Book Catalogue
+# Book Catalog
 
 ### Cheat Sheets 
 - [Excel Cheat Sheet](#)
