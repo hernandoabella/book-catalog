@@ -1,13 +1,15 @@
 # Book Catalog
 
-### Cheat Sheets 
-- [Excel Cheat Sheet](#)
-- [The Ultimate Artificial Intelligence Cheat Sheet](https://www.amazon.com/-/es/Ultimate-AI-Cheat-sheet-Entrepreneurs/dp/B0F27YC1V9)
-- [Python Cheat Sheet](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DK22TT6N/)
-- [SQL Cheat Sheet](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DJCY3TPX) 
-- [JavaScript Cheat Sheet](https://www.amazon.com/-/es/dp/B0DKMBC3C2)
-- [Go Cheat Sheet](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DYF9BNQV)
-- [Rust Cheat Sheet](#)
+
+
+
+| [<img width="600" height="600" alt="Programming Cheat Sheets" src="https://github.com/user-attachments/assets/a2b5af91-8b1e-4a81-bf75-8fa406e9b693" />](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0F2ZC8GQX) | [The Ultimate Artificial Intelligence Cheat Sheet](https://www.amazon.com/-/es/Ultimate-AI-Cheat-sheet-Entrepreneurs/dp/B0F27YC1V9) | [Python Cheat Sheet](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DK22TT6N/) | [SQL Cheat Sheet](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DJCY3TPX)  | [JavaScript Cheat Sheet](https://www.amazon.com/-/es/dp/B0DKMBC3C2) |
+| --- | --- | --- | --- | --- |
+| [Go Cheat Sheet](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DYF9BNQV) | [Rust Cheat Sheet](#) | | | |
+| | | | | |
+| | | | | |
+
+
 
 ### Algorithms and Data Structures
 - [300+ Python Algorithms](https://www.amazon.com/300-Python-Algorithms-Mastering-Problem-Solving-ebook/dp/B0DJFS471K)
