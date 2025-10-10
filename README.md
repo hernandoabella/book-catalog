@@ -1,9 +1,6 @@
 # Book Catalog
 
-
-
-
-| [<img width="600" height="600" alt="Programming Cheat Sheets" src="https://github.com/user-attachments/assets/a2b5af91-8b1e-4a81-bf75-8fa406e9b693" />](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0F2ZC8GQX) | [<img width="600" height="600" alt="Programming Cheat Sheets (1)" src="https://github.com/user-attachments/assets/f6bd97fc-e7ea-4e96-9275-321de0615936" />](https://www.amazon.com/-/es/Ultimate-AI-Cheat-sheet-Entrepreneurs/dp/B0F27YC1V9) | [Python Cheat Sheet](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DK22TT6N/) | [SQL Cheat Sheet](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DJCY3TPX)  | [JavaScript Cheat Sheet](https://www.amazon.com/-/es/dp/B0DKMBC3C2) |
+| [<img width="600" height="600" alt="Gumroad Thumbnail 600x600" src="https://github.com/user-attachments/assets/c71384a9-561b-48b9-8085-ecb45dce3f4c" />](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0F2ZC8GQX) | [<img width="600" height="600" alt="Programming Cheat Sheets (1)" src="https://github.com/user-attachments/assets/f6bd97fc-e7ea-4e96-9275-321de0615936" />](https://www.amazon.com/-/es/Ultimate-AI-Cheat-sheet-Entrepreneurs/dp/B0F27YC1V9) | [Python Cheat Sheet](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DK22TT6N/) | [SQL Cheat Sheet](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DJCY3TPX)  | [JavaScript Cheat Sheet](https://www.amazon.com/-/es/dp/B0DKMBC3C2) |
 | --- | --- | --- | --- | --- |
 | [Go Cheat Sheet](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DYF9BNQV) | [Rust Cheat Sheet](#) | | | |
 | | | | | |
