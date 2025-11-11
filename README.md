@@ -1,17 +1,20 @@
 # Book Catalog
-### Cheat Sheets
-| [<img width="600" height="600" alt="Gumroad Thumbnail 600x600" src="https://github.com/user-attachments/assets/c71384a9-561b-48b9-8085-ecb45dce3f4c" />](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0F2ZC8GQX) | [<img width="600" height="600" alt="Programming Cheat Sheets (1)" src="https://github.com/user-attachments/assets/f6bd97fc-e7ea-4e96-9275-321de0615936" />](https://www.amazon.com/-/es/Ultimate-AI-Cheat-sheet-Entrepreneurs/dp/B0F27YC1V9) | [<img width="600" height="600" alt="Gumroad Thumbnail 600x600 (5)" src="https://github.com/user-attachments/assets/020280eb-c0d7-41fc-995c-8f9c333bc4fa" />](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DK22TT6N/) | [<img width="600" height="600" alt="Gumroad Thumbnail 600x600 (3)" src="https://github.com/user-attachments/assets/04c6b87f-5bbc-445d-88ff-cbfe76e59247" />](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DJCY3TPX)  | [<img width="600" height="600" alt="Gumroad Thumbnail 600x600 (4)" src="https://github.com/user-attachments/assets/ea11578d-5406-4876-bc57-2680a89cf54b" />](https://www.amazon.com/-/es/dp/B0DKMBC3C2) |
-| --- | --- | --- | --- | --- |
-| [<img width="600" height="600" alt="Gumroad Thumbnail 600x600 (2)" src="https://github.com/user-attachments/assets/b760bde9-5862-4f91-8493-916de84a751b" />](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DYF9BNQV) | [<img width="600" height="600" alt="Gumroad Thumbnail 600x600 (1)" src="https://github.com/user-attachments/assets/90d3d1b7-2716-451a-9a40-da90213056af" />](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0F5ZPJJ92) | [<img width="600" height="600" alt="Gumroad Thumbnail 600x600" src="https://github.com/user-attachments/assets/61086f5a-d672-46bf-b3d1-5669909a0406" />](#) | | |
-
-
-
 
 ### Algorithms and Data Structures
 | | | | |
 | --- | --- | --- | --- |
 | | | | |
 - [300+ Python Algorithms](https://www.amazon.com/300-Python-Algorithms-Mastering-Problem-Solving-ebook/dp/B0DJFS471K)
+
+### Cheat Sheets
+| [<img width="600" height="600" alt="Gumroad Thumbnail 600x600" src="https://github.com/user-attachments/assets/c71384a9-561b-48b9-8085-ecb45dce3f4c" />](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0F2ZC8GQX) | [<img width="600" height="600" alt="Programming Cheat Sheets (1)" src="https://github.com/user-attachments/assets/f6bd97fc-e7ea-4e96-9275-321de0615936" />](https://www.amazon.com/-/es/Ultimate-AI-Cheat-sheet-Entrepreneurs/dp/B0F27YC1V9) | [<img width="600" height="600" alt="Gumroad Thumbnail 600x600 (5)" src="https://github.com/user-attachments/assets/020280eb-c0d7-41fc-995c-8f9c333bc4fa" />](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DK22TT6N/) | [<img width="600" height="600" alt="Gumroad Thumbnail 600x600 (3)" src="https://github.com/user-attachments/assets/04c6b87f-5bbc-445d-88ff-cbfe76e59247" />](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DJCY3TPX)  | [<img width="600" height="600" alt="Gumroad Thumbnail 600x600 (4)" src="https://github.com/user-attachments/assets/ea11578d-5406-4876-bc57-2680a89cf54b" />](https://www.amazon.com/-/es/dp/B0DKMBC3C2) |
+| --- | --- | --- | --- | --- |
+| [<img width="600" height="600" alt="Gumroad Thumbnail 600x600 (2)" src="https://github.com/user-attachments/assets/b760bde9-5862-4f91-8493-916de84a751b" />](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DYF9BNQV) | [<img width="600" height="600" alt="Gumroad Thumbnail 600x600 (1)" src="https://github.com/user-attachments/assets/90d3d1b7-2716-451a-9a40-da90213056af" />](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0F5ZPJJ92) | [<img width="600" height="600" alt="Gumroad Thumbnail 600x600" src="https://github.com/user-attachments/assets/61086f5a-d672-46bf-b3d1-5669909a0406" />](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0FBRM8XJM) | | |
+
+### AI
+| | | | |
+| --- | --- | --- | --- |
+| [<img width="600" height="600" alt="Gumroad Thumbnail 600x600 (1)" src="https://github.com/user-attachments/assets/572fb6d8-fd6d-4681-865f-78e76923d2e7" />](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0F9VGH2TV) | [<img width="600" height="600" alt="Gumroad Thumbnail 600x600" src="https://github.com/user-attachments/assets/660a267d-43ae-4aaf-89ca-0e1eb0694fd0" />]() | | | 
 
 ### Cookbook
 | | | | |
@@ -77,9 +80,12 @@
 - [120+ Advanced JavaScript Interview Questions](https://www.amazon.com/120-Advanced-JavaScript-Interview-Questions/dp/B0CL9ZKTLV)
 - [120+ Advanced Python Interview Questions](https://www.amazon.com/dp/B0CLM68FNR)
 
+### Making Money 💵
+- [50 Ways to Make Money as a Dev](https://www.amazon.com/Ways-Make-Money-Dev-developer/dp/B0CXM1JDKL)
+
 ### 🏆 Miscellaneous
 | | | | |
 | --- | --- | --- | --- |
 | | | | |
 - [Programming Terms and Definitions](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CN2R71Y7)
-- [50 Ways to Make Money as a Dev](https://www.amazon.com/Ways-Make-Money-Dev-developer/dp/B0CXM1JDKL)
+
