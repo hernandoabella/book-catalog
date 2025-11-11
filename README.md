@@ -14,7 +14,7 @@
 ### AI
 | | | | |
 | --- | --- | --- | --- |
-| [<img width="600" height="600" alt="Gumroad Thumbnail 600x600 (1)" src="https://github.com/user-attachments/assets/572fb6d8-fd6d-4681-865f-78e76923d2e7" />](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0F9VGH2TV) | [<img width="600" height="600" alt="Gumroad Thumbnail 600x600" src="https://github.com/user-attachments/assets/660a267d-43ae-4aaf-89ca-0e1eb0694fd0" />]() | | | 
+| [<img width="600" height="600" alt="Gumroad Thumbnail 600x600 (1)" src="https://github.com/user-attachments/assets/572fb6d8-fd6d-4681-865f-78e76923d2e7" />](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0F9VGH2TV) | [<img width="600" height="600" alt="Gumroad Thumbnail 600x600" src="https://github.com/user-attachments/assets/660a267d-43ae-4aaf-89ca-0e1eb0694fd0" />](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0FBRM8XJM) | | | 
 
 ### Cookbook
 | | | | |
