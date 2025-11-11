@@ -19,10 +19,7 @@
 ### Cookbook
 | | | | |
 | --- | --- | --- | --- |
-| | | | |
-- [SQL Cook Book](https://www.amazon.com/-/es/Hernando-Abella/dp/B0CWVK8B9R)
-- [JavaScript Cook Book](https://www.amazon.com/Hernando-Abella/dp/B0CPDSXDGL)
-- [Python Cook Book](https://www.amazon.com/-/es/Hernando-Abella/dp/B0D7VK6BMJ) 
+| [<img width="600" height="600" alt="29" src="https://github.com/user-attachments/assets/af52dffa-5fbb-401a-9ca9-c7c1dd69da8d" />](https://www.amazon.com/-/es/Hernando-Abella/dp/B0CWVK8B9R) | [<img width="600" height="600" alt="28" src="https://github.com/user-attachments/assets/ab3a8875-9e12-4243-a918-89a83ff7e154" />](https://www.amazon.com/Hernando-Abella/dp/B0CPDSXDGL) | [<img width="600" height="600" alt="27" src="https://github.com/user-attachments/assets/507065e9-15d2-4b7a-a971-d112882e989f" />](https://www.amazon.com/-/es/Hernando-Abella/dp/B0D7VK6BMJ) | |
 
 ### Pattern Programs
 | | | | |
