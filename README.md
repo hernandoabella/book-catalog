@@ -78,7 +78,9 @@
 - [120+ Advanced Python Interview Questions](https://www.amazon.com/dp/B0CLM68FNR)
 
 ### Making Money 💵
-- [50 Ways to Make Money as a Dev](https://www.amazon.com/Ways-Make-Money-Dev-developer/dp/B0CXM1JDKL)
+| | | | |
+| --- | --- | --- | --- |
+| [<img width="600" height="600" alt="Gumroad Thumbnail 600x600 (2)" src="https://github.com/user-attachments/assets/25fbf4a3-f77f-4993-a4aa-0af1de79af06" />](https://www.amazon.com/Ways-Make-Money-Dev-developer/dp/B0CXM1JDKL) | | | |
 
 ### 🏆 Miscellaneous
 | | | | |
