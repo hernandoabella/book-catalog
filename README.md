@@ -24,7 +24,7 @@
 ### Pattern Programs
 | | | | |
 | --- | --- | --- | --- |
-| | | | |
+| []() | []() | []() | |
 - [150+ JavaScript Pattern Programs](https://www.amazon.com/150-JavaScript-Pattern-Programs-creativity/dp/B0CV1GBW28)
 - [150+ C Pattern Programs](https://www.amazon.com/150-Pattern-Programs-creativity-statements/dp/B0CTZW4Y9V)
 - [150 Python Pattern Programs](https://www.amazon.com/Hernando-Abella-ebook/dp/B0CVNG3PRV) 
@@ -39,16 +39,15 @@
 ### Programs For Beginners
 | | | | |
 | --- | --- | --- | --- |
-| | | | |
-- [200+ Python Programs For Beginners](https://www.amazon.com/-/es/Hernando-Abella/dp/B0CVLQTKHG)
-- [200+ JavaScript Programs For Beginners](https://www.amazon.com/JavaScript-Programs-Beginners-Hernando-Abella/dp/B0CQ5KVQGH)
-- [200+ Java Programs For Beginners](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DM4HMBG8)
-- [200+ Rust Programs For Beginners](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DHT9R764)
+| [<img width="600" height="600" alt="22" src="https://github.com/user-attachments/assets/4a4c6d04-56bc-432c-92cb-c1dfca86219f" />]() | [<img width="600" height="600" alt="21" src="https://github.com/user-attachments/assets/e7c5b71b-00f7-4d75-9a74-f276cec66de9" />]() | [<img width="600" height="600" alt="20" src="https://github.com/user-attachments/assets/bb9b288f-8100-4b5f-b2ba-62c50aabca59" />]() | [<img width="600" height="600" alt="19" src="https://github.com/user-attachments/assets/bf23b90f-9242-416a-8eea-4bbe0346a15a" />]() |
+| [<img width="600" height="600" alt="18" src="https://github.com/user-attachments/assets/5a37aacf-3f4b-4295-880a-fefcbd1e8b27" />]() | | | |
 
 ### 250+ Killer One-Liners
 | | | | |
 | --- | --- | --- | --- |
 | | | | |
+| | | | |
+
 - [250+ Python Killer One-Liners](https://www.amazon.com/-/es/250-Killer-Python-One-Liners-solutions/dp/B0D47JMKGX)
 - [250+ C# Killer One-Liners](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0D2ZM71J8)
 - [250+ Ruby Killer One-Liners](https://www.amazon.com/250-Killer-Ruby-One-Liners-Transform-ebook/dp/B0CXF57XT9)
