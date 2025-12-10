@@ -3,7 +3,7 @@
 ### Algorithms and Data Structures
 | | | | |
 | --- | --- | --- | --- |
-| [<img width="600" height="600" alt="Gumroad Thumbnail 600x600" src="https://github.com/user-attachments/assets/af3324e4-d9ac-4463-9ae6-e979e0be3b7f" />](https://www.amazon.com/300-Python-Algorithms-Mastering-Problem-Solving-ebook/dp/B0DJFS471K) | | | |
+| [<img width="600" height="600" alt="Gumroad Thumbnail 600x600" src="https://github.com/user-attachments/assets/af3324e4-d9ac-4463-9ae6-e979e0be3b7f" />](https://www.amazon.com/300-Python-Algorithms-Mastering-Problem-Solving-ebook/dp/B0DJFS471K) | [<img width="600" height="600" alt="Gumroad Thumbnail 600x600 (3)" src="https://github.com/user-attachments/assets/96643790-863e-48d3-a801-45db7ec2d4cf" />](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CVTLX8GS) | | |
 
 ### Cheat Sheets
 | [<img width="600" height="600" alt="Gumroad Thumbnail 600x600" src="https://github.com/user-attachments/assets/c71384a9-561b-48b9-8085-ecb45dce3f4c" />](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0F2ZC8GQX) | [<img width="600" height="600" alt="Programming Cheat Sheets (1)" src="https://github.com/user-attachments/assets/f6bd97fc-e7ea-4e96-9275-321de0615936" />](https://www.amazon.com/-/es/Ultimate-AI-Cheat-sheet-Entrepreneurs/dp/B0F27YC1V9) | [<img width="600" height="600" alt="Gumroad Thumbnail 600x600 (5)" src="https://github.com/user-attachments/assets/020280eb-c0d7-41fc-995c-8f9c333bc4fa" />](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DK22TT6N/) | [<img width="600" height="600" alt="Gumroad Thumbnail 600x600 (3)" src="https://github.com/user-attachments/assets/04c6b87f-5bbc-445d-88ff-cbfe76e59247" />](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0DJCY3TPX)  | [<img width="600" height="600" alt="Gumroad Thumbnail 600x600 (4)" src="https://github.com/user-attachments/assets/ea11578d-5406-4876-bc57-2680a89cf54b" />](https://www.amazon.com/-/es/dp/B0DKMBC3C2) |
@@ -23,17 +23,15 @@
 ### Pattern Programs
 | | | | |
 | --- | --- | --- | --- |
-| []() | []() | []() | |
-- [150+ JavaScript Pattern Programs](https://www.amazon.com/150-JavaScript-Pattern-Programs-creativity/dp/B0CV1GBW28)
-- [150+ C Pattern Programs](https://www.amazon.com/150-Pattern-Programs-creativity-statements/dp/B0CTZW4Y9V)
-- [150 Python Pattern Programs](https://www.amazon.com/Hernando-Abella-ebook/dp/B0CVNG3PRV) 
+| [](https://www.amazon.com/150-JavaScript-Pattern-Programs-creativity/dp/B0CV1GBW28) | [](https://www.amazon.com/150-Pattern-Programs-creativity-statements/dp/B0CTZW4Y9V) | [](https://www.amazon.com/Hernando-Abella-ebook/dp/B0CVNG3PRV) | |
+- [150+ JavaScript Pattern Programs]()
+- [150+ C Pattern Programs]()
+- [150 Python Pattern Programs]() 
 
 ### Tutorials For Beginners
 | | | | |
 | --- | --- | --- | --- |
-| | | | |
-- [JavaScript-for-beginners](https://www.amazon.com/JavaScript-Beginners-Hernando-Abella/dp/B0CRHYGXNC)
-- [Rust for beginners](https://www.amazon.com/Rust-Beginners-Lets-Learn-together/dp/B0CT3NP1JB)
+| [<img width="600" height="600" alt="Gumroad Thumbnail 600x600 (1)" src="https://github.com/user-attachments/assets/87e54d81-fcc1-470b-869d-462a3cfe0d16" />](https://www.amazon.com/JavaScript-Beginners-Hernando-Abella/dp/B0CRHYGXNC) | [<img width="600" height="600" alt="Gumroad Thumbnail 600x600 (2)" src="https://github.com/user-attachments/assets/bc77e24b-a03a-4e9a-919e-9cfe03976107" />](https://www.amazon.com/Rust-Beginners-Lets-Learn-together/dp/B0CT3NP1JB) | | |
 
 ### Programs For Beginners
 | | | | |
@@ -57,7 +55,8 @@
 | | | | |
 | --- | --- | --- | --- |
 | | | | |
-- [50 Python Concepts Every Developer Show Know](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CW9LWMTB)
+
+- [50 Python Concepts Every Developer Should Know](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CW9LWMTB)
 - [50 C# Concepts Every Developer Should Know](https://www.amazon.com/dp/B0CVFYGK2B)
 - [50 JavaScript Concepts Every Developer Should Know](https://www.amazon.com/Hernando-Abella-ebook/dp/B0CNC4WZT6)
 - [50 Java Concepts Every Developer Should Know](https://www.amazon.com/Java-Concepts-Every-Developer-Should-ebook/dp/B0CPPZ1BVM)
