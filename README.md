@@ -79,6 +79,6 @@
 ### 🏆 Miscellaneous
 | | | | |
 | --- | --- | --- | --- |
-| | | | |
-- [Programming Terms and Definitions](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CN2R71Y7)
+| [<img width="600" height="600" alt="Gumroad Thumbnail 600x600 (4)" src="https://github.com/user-attachments/assets/94df58b7-bfe7-4218-a89e-1e01b30bcd3f" />](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CN2R71Y7) | | | |
+
 
