@@ -24,6 +24,10 @@
 | | | | |
 | --- | --- | --- | --- |
 | [](https://www.amazon.com/150-JavaScript-Pattern-Programs-creativity/dp/B0CV1GBW28) | [](https://www.amazon.com/150-Pattern-Programs-creativity-statements/dp/B0CTZW4Y9V) | [](https://www.amazon.com/Hernando-Abella-ebook/dp/B0CVNG3PRV) | |
+
+
+
+
 - [150+ JavaScript Pattern Programs]()
 - [150+ C Pattern Programs]()
 - [150 Python Pattern Programs]() 
