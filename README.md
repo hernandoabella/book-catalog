@@ -23,14 +23,7 @@
 ### Pattern Programs
 | | | | |
 | --- | --- | --- | --- |
-| [](https://www.amazon.com/150-JavaScript-Pattern-Programs-creativity/dp/B0CV1GBW28) | [](https://www.amazon.com/150-Pattern-Programs-creativity-statements/dp/B0CTZW4Y9V) | [](https://www.amazon.com/Hernando-Abella-ebook/dp/B0CVNG3PRV) | |
-
-
-
-
-- [150+ JavaScript Pattern Programs]()
-- [150+ C Pattern Programs]()
-- [150 Python Pattern Programs]() 
+| [<img width="600" height="600" alt="34" src="https://github.com/user-attachments/assets/f1526d5b-b9c3-43f0-a326-f8f42d975280" />](https://www.amazon.com/150-JavaScript-Pattern-Programs-creativity/dp/B0CV1GBW28) | [<img width="600" height="600" alt="35" src="https://github.com/user-attachments/assets/995bdcb4-5f85-415f-849a-f9abece81be6" />](https://www.amazon.com/150-Pattern-Programs-creativity-statements/dp/B0CTZW4Y9V) | [<img width="600" height="600" alt="33" src="https://github.com/user-attachments/assets/e77e678d-84e3-4789-a98a-2124d8c85ade" />](https://www.amazon.com/Hernando-Abella-ebook/dp/B0CVNG3PRV) | |
 
 ### Tutorials For Beginners
 | | | | |
