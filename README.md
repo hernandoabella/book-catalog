@@ -39,19 +39,15 @@
 ### 250+ Killer One-Liners
 | | | | |
 | --- | --- | --- | --- |
-| | | | |
-| | | | |
-
-- [250+ Python Killer One-Liners](https://www.amazon.com/-/es/250-Killer-Python-One-Liners-solutions/dp/B0D47JMKGX)
-- [250+ C# Killer One-Liners](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0D2ZM71J8)
-- [250+ Ruby Killer One-Liners](https://www.amazon.com/250-Killer-Ruby-One-Liners-Transform-ebook/dp/B0CXF57XT9)
-- [250+ TypeScript Killer One-Liners](https://www.amazon.com/250-Killer-TypeScript-One-Liners-Transform-ebook/dp/B0CYHZ5QKJ)
-- [250+ JavaScript Killer One-Liners](https://www.amazon.com/Hernando-Abella/dp/B0CN58RHGF)
+| [<img width="600" height="600" alt="43" src="https://github.com/user-attachments/assets/2f5d1695-c2a7-4877-81a2-81b287cdc644" />](https://www.amazon.com/-/es/250-Killer-Python-One-Liners-solutions/dp/B0D47JMKGX) | [<img width="600" height="600" alt="47" src="https://github.com/user-attachments/assets/38fd1d33-5657-4a32-a067-007827e50989" />](https://www.amazon.com/Hernando-Abella/dp/B0CN58RHGF) | [<img width="600" height="600" alt="46" src="https://github.com/user-attachments/assets/a77b6391-b229-46b5-8d3e-216b5f2d1f58" /> ](https://www.amazon.com/250-Killer-TypeScript-One-Liners-Transform-ebook/dp/B0CYHZ5QKJ) | [<img width="600" height="600" alt="45" src="https://github.com/user-attachments/assets/faa31af5-575a-433c-a646-8e4cb385db9f" />](https://www.amazon.com/250-Killer-Ruby-One-Liners-Transform-ebook/dp/B0CXF57XT9) | 
+| [<img width="600" height="600" alt="44" src="https://github.com/user-attachments/assets/69d4460d-b0f4-4f1c-a957-5db9d531c439" />](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0D2ZM71J8) | | | |
 
 ### 50 Concepts Every Developer Should Know
 | | | | |
 | --- | --- | --- | --- |
 | | | | |
+
+
 
 - [50 Python Concepts Every Developer Should Know](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CW9LWMTB)
 - [50 C# Concepts Every Developer Should Know](https://www.amazon.com/dp/B0CVFYGK2B)
