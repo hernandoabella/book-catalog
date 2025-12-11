@@ -61,8 +61,7 @@
 ### Advanced Design Patterns
 | | | | |
 | --- | --- | --- | --- |
-| | | | |
-- [Advanced Design Patterns in JavaScript](https://www.amazon.com/Design-Patterns-JavaScript-Optimizing-applications/dp/B0CNWGV8W5)
+| [<img width="600" height="600" alt="41" src="https://github.com/user-attachments/assets/20e7dc3f-fd91-424a-869b-7696634ab164" />](https://www.amazon.com/-/es/Python-Design-Patterns-Building-applications/dp/B0FTG4BZ7N) | [<img width="600" height="600" alt="40" src="https://github.com/user-attachments/assets/92260220-aff5-4449-be41-17ff7eaa4e66" />](https://www.amazon.com/Design-Patterns-JavaScript-Optimizing-applications/dp/B0CNWGV8W5) | | |
 
 ### 120+ Advanced JavaScript Interview Questions
 | | | | |
