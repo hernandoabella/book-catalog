@@ -45,14 +45,7 @@
 ### 50 Concepts Every Developer Should Know
 | | | | |
 | --- | --- | --- | --- |
-| | | | |
-
-
-
-- [50 Python Concepts Every Developer Should Know](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CW9LWMTB)
-- [50 C# Concepts Every Developer Should Know](https://www.amazon.com/dp/B0CVFYGK2B)
-- [50 JavaScript Concepts Every Developer Should Know](https://www.amazon.com/Hernando-Abella-ebook/dp/B0CNC4WZT6)
-- [50 Java Concepts Every Developer Should Know](https://www.amazon.com/Java-Concepts-Every-Developer-Should-ebook/dp/B0CPPZ1BVM)
+| [<img width="600" height="600" alt="51" src="https://github.com/user-attachments/assets/447e0a82-c73c-40de-948f-1c0452ae4590" />](https://www.amazon.com/Java-Concepts-Every-Developer-Should-ebook/dp/B0CPPZ1BVM) | [<img width="600" height="600" alt="50" src="https://github.com/user-attachments/assets/098d22bd-90af-46e5-92c5-57bb70034732" />](https://www.amazon.com/Hernando-Abella-ebook/dp/B0CNC4WZT6) | [<img width="600" height="600" alt="49" src="https://github.com/user-attachments/assets/fa33b0f0-24fd-41c8-83ba-562cd13b6806" />](https://www.amazon.com/dp/B0CVFYGK2B) | [<img width="600" height="600" alt="48" src="https://github.com/user-attachments/assets/f16e79e0-828d-4a56-aaef-234ddf4b3ed7" />](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CW9LWMTB) |
 
 ### Advanced Design Patterns
 | | | | |
