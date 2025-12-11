@@ -1,4 +1,4 @@
-import { Category } from "./types";
+import { Category } from "../components/types";
 
 export const categories: Category[] = [
   {
@@ -10,20 +10,25 @@ export const categories: Category[] = [
         link: "https://www.amazon.com/-/es/Hernando-Abella/dp/B0CWVK8B9R",
         gumroad: "https://hernandoabella.gumroad.com/l/qivzb",
         image: "/sql-cookbook.jpg",
+        id: ""
       },
       {
         title: "JavaScript Cook Book",
         link: "https://www.amazon.com/Hernando-Abella/dp/B0CPDSXDGL",
         gumroad: "https://hernandoabella.gumroad.com/l/herow",
         image: "/js-cookbook.jpg",
+        id: ""
       },
       {
         title: "Python Cook Book",
         link: "https://www.amazon.com/Hernando-Abella/dp/B0CPDSXDGL",
         gumroad: "https://hernandoabella.gumroad.com/l/hwpwm",
         image: "/python-cookbook.png",
+        id: ""
       },
     ],
+    id: "",
+    icon: undefined
   },
   {
     title: "250+ Killer One-Liners",
@@ -34,26 +39,32 @@ export const categories: Category[] = [
         link: "https://www.amazon.com/-/es/Hernando-Abella/dp/B0CN58RHGF",
         gumroad: "https://hernandoabella.gumroad.com/l/oqsrp",
         image: "/250-killer-js.jpg",
+        id: ""
       },
       {
         title: "250+ Killer TypeScript One-Liners",
         link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CYHZ5QKJ",
         gumroad: "https://hernandoabella.gumroad.com/l/amuoc",
         image: "/250-killer-ts.jpg",
+        id: ""
       },
       {
         title: "250+ Killer C# One-Liners",
         link: "https://www.amazon.com/-/es/Hernando-Abella/dp/B0D31DMBFY",
         gumroad: "https://hernandoabella.gumroad.com/l/rvfsne",
         image: "/250-killer-csharp.jpg",
+        id: ""
       },
       {
         title: "250+ Killer Ruby One-Liners",
         link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CXF57XT9",
         gumroad: "https://hernandoabella.gumroad.com/l/rdfvl",
         image: "/250-killer-ruby.jpg",
+        id: ""
       },
     ],
+    id: "",
+    icon: undefined
   },
   {
     title: "Data Structures and Algorithms",
@@ -64,8 +75,11 @@ export const categories: Category[] = [
         link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CVTLX8GS",
         image: "/python-algorithms.jpg",
         gumroad: "https://hernandoabella.gumroad.com/l/cizek",
+        id: ""
       },
     ],
+    id: "",
+    icon: undefined
   },
   {
     title: "Advanced Interview Questions",
@@ -76,14 +90,18 @@ export const categories: Category[] = [
         link: "https://www.amazon.com/-/es/Hernando-Abella/dp/B0CL9ZKTLV",
         image: "/js-interview.jpg",
         gumroad: "https://hernandoabella.gumroad.com/l/gcanm",
+        id: ""
       },
       {
         title: "120 Advanced Python Interview Questions",
         link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CLL3FKKQ",
         image: "/python-interview.jpg",
         gumroad: "https://hernandoabella.gumroad.com/l/xzghr",
+        id: ""
       },
     ],
+    id: "",
+    icon: undefined
   },
   {
     title: "Advanced Design Patterns",
@@ -94,8 +112,11 @@ export const categories: Category[] = [
         link: "https://www.amazon.com/-/es/Hernando-Abella/dp/B0CNWGV8W5",
         image: "/js-design-pattern.jpg",
         gumroad: "https://hernandoabella.gumroad.com/l/berze",
+        id: ""
       },
     ],
+    id: "",
+    icon: undefined
   },
   {
     title: "For Beginners",
@@ -106,14 +127,18 @@ export const categories: Category[] = [
         link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CRF2QG7Z",
         image: "/js-for-beginners.jpg",
         gumroad: "https://hernandoabella.gumroad.com/l/czmfmv",
+        id: ""
       },
       {
         title: "Rust for Beginners",
         link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CT365MMD",
         image: "/rust-for-beginners.jpg",
         gumroad: "https://hernandoabella.gumroad.com/l/zyhpc",
+        id: ""
       },
     ],
+    id: "",
+    icon: undefined
   },
   {
     title: "50 Concepts Every Developer Should Know",
@@ -124,26 +149,32 @@ export const categories: Category[] = [
         link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CPPZ1BVM",
         image: "/50-concepts-java.jpg",
         gumroad: "https://hernandoabella.gumroad.com/l/zrixk",
+        id: ""
       },
       {
         title: "50 Python Concepts Every Developer Should Know",
         link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CW9LWMTB",
         image: "/50-concepts-python.jpg",
         gumroad: "https://hernandoabella.gumroad.com/l/rwxgre",
+        id: ""
       },
       {
         title: "50 C# Concepts Every Developer Should Know",
         link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CVFXGJZ9",
         image: "/50-concepts-c-sharp.jpg",
         gumroad: "https://hernandoabella.gumroad.com/l/ednox",
+        id: ""
       },
       {
         title: "50 JavaScript Concepts Every Developer Should Know",
         link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CNC4WZT6",
         image: "/50-concepts-js.jpg",
         gumroad: "https://hernandoabella.gumroad.com/l/poeqat",
+        id: ""
       },
     ],
+    id: "",
+    icon: undefined
   },
   {
     title: "Pattern Programs",
@@ -154,20 +185,25 @@ export const categories: Category[] = [
         link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CTYK7NFR",
         image: "/js-patterns.jpg",
         gumroad: "https://hernandoabella.gumroad.com/l/ddnpsp",
+        id: ""
       },
       {
         title: "150+ Python Pattern Programs",
         link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CVNG3PRV",
         image: "/python-patterns.jpg",
         gumroad: "https://hernandoabella.gumroad.com/l/bjhjbm",
+        id: ""
       },
       {
         title: "150+ C Pattern Programs",
         link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CTPZ6SVD",
         image: "/c-patterns.jpg",
         gumroad: "https://hernandoabella.gumroad.com/l/odrmd",
+        id: ""
       },
     ],
+    id: "",
+    icon: undefined
   },
   {
     title: "Let's grow up together!",
@@ -178,7 +214,10 @@ export const categories: Category[] = [
         link: "https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0CW1JRCXY",
         image: "/50-ways.jpg",
         gumroad: "https://hernandoabella.gumroad.com/l/niwes",
+        id: ""
       },
     ],
+    id: "",
+    icon: undefined
   },
 ];
