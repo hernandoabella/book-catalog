@@ -30,7 +30,7 @@
 | --- | --- | --- | --- |
 | [<img width="600" height="600" alt="Gumroad Thumbnail 600x600 (1)" src="https://github.com/user-attachments/assets/87e54d81-fcc1-470b-869d-462a3cfe0d16" />](https://www.amazon.com/JavaScript-Beginners-Hernando-Abella/dp/B0CRHYGXNC) | [<img width="600" height="600" alt="Gumroad Thumbnail 600x600 (2)" src="https://github.com/user-attachments/assets/bc77e24b-a03a-4e9a-919e-9cfe03976107" />](https://www.amazon.com/Rust-Beginners-Lets-Learn-together/dp/B0CT3NP1JB) | | |
 
-### Programs For Beginners
+### 200+ Programs For Beginners
 | | | | |
 | --- | --- | --- | --- |
 | [<img width="600" height="600" alt="22" src="https://github.com/user-attachments/assets/4a4c6d04-56bc-432c-92cb-c1dfca86219f" />]() | [<img width="600" height="600" alt="21" src="https://github.com/user-attachments/assets/e7c5b71b-00f7-4d75-9a74-f276cec66de9" />]() | [<img width="600" height="600" alt="20" src="https://github.com/user-attachments/assets/bb9b288f-8100-4b5f-b2ba-62c50aabca59" />]() | [<img width="600" height="600" alt="19" src="https://github.com/user-attachments/assets/bf23b90f-9242-416a-8eea-4bbe0346a15a" />]() |
@@ -67,9 +67,7 @@
 ### 120+ Advanced JavaScript Interview Questions
 | | | | |
 | --- | --- | --- | --- |
-| | | | |
-- [120+ Advanced JavaScript Interview Questions](https://www.amazon.com/120-Advanced-JavaScript-Interview-Questions/dp/B0CL9ZKTLV)
-- [120+ Advanced Python Interview Questions](https://www.amazon.com/dp/B0CLM68FNR)
+| [<img width="600" height="600" alt="38" src="https://github.com/user-attachments/assets/457c3cb7-77a1-422a-9aaa-43d66f613491" />](https://www.amazon.com/120-Advanced-JavaScript-Interview-Questions/dp/B0CL9ZKTLV) | [<img width="600" height="600" alt="39" src="https://github.com/user-attachments/assets/b130671e-fbdc-4e24-af0f-8b3fdc045f9c" />](https://www.amazon.com/dp/B0CLM68FNR) | | |
 
 ### Making Money 💵
 | | | | |
