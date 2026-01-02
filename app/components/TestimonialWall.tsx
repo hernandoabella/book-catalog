@@ -1,12 +1,13 @@
 "use client";
 
-import React, { useRef } from "react";
+import React, { useEffect, useRef } from "react";
 import Image from "next/image";
-import { FaStar, FaQuoteLeft, FaQuoteRight } from "react-icons/fa";
-import { motion, useAnimation } from "framer-motion";
-import { useInView } from "react-intersection-observer";
+import { FaStar, FaQuoteLeft } from "react-icons/fa";
+import gsap from "gsap";
+import { ScrollTrigger } from "gsap/ScrollTrigger";
 
-// Definición de la interfaz Testimonial
+gsap.registerPlugin(ScrollTrigger);
+
 interface Testimonial {
   title: string;
   description: string;
@@ -15,120 +16,168 @@ interface Testimonial {
   image: string;
 }
 
-// Definición de la constante testimonials
 const testimonials: Testimonial[] = [
   {
     title: "Very helpful for interview prep",
-    description:
-      "This book was very helpful preparing for JavaScript interviews...",
+    description: "This book was very helpful preparing for JavaScript interviews. It covers the core concepts clearly.",
     name: "David Chouinard",
     role: "Reader",
     image: "/testimonial-1.jpg",
   },
   {
     title: "Wonderful for reviews",
-    description:
-      "I’m finding this book to be an excellent resource for preparing for my interview.",
+    description: "I’m finding this book to be an excellent resource for preparing for my interview. Highly recommended.",
     name: "Michael Johnson",
     role: "Software Engineer",
     image: "/testimonial-2.jpg",
   },
   {
     title: "Informative!",
-    description:
-      "50 Python Concepts Every Developer Should Know is a fantastic guide that includes fifty concepts that readers should know about Python coding.",
-    name: "-KLC",
+    description: "50 Python Concepts is a fantastic guide. It includes fifty concepts that every dev should know.",
+    name: "KLC",
     role: "Reader",
     image: "/testimonial-3.jpg",
   },
   {
     title: "Great find!",
-    description:
-      "The way this book breaks down complex design patterns into digestible, applicable knowledge is mind-blowing.",
+    description: "The way this book breaks down complex design patterns into digestible knowledge is mind-blowing.",
     name: "Randall McMurphy",
     role: "Reader",
     image: "/testimonial-4.jpg",
   },
 ];
 
-const TestimonialCard: React.FC<{ testimonial: Testimonial }> = ({
-  testimonial,
-}) => {
-  const controls = useAnimation();
-  const { ref, inView } = useInView();
+const TestimonialCard: React.FC<{ testimonial: Testimonial }> = ({ testimonial }) => {
+  const cardRef = useRef<HTMLDivElement>(null);
 
-  React.useEffect(() => {
-    if (inView) {
-      controls.start({ opacity: 1, y: 0 });
-    }
-  }, [controls, inView]);
+  useEffect(() => {
+    const el = cardRef.current;
+    
+    // Entrance Animation
+    gsap.fromTo(el, 
+      { opacity: 0, y: 50 },
+      {
+        opacity: 1,
+        y: 0,
+        duration: 0.8,
+        ease: "power3.out",
+        scrollTrigger: {
+          trigger: el,
+          start: "top 85%",
+          toggleActions: "play none none none"
+        }
+      }
+    );
+  }, []);
+
+  const onMouseEnter = () => {
+    gsap.to(cardRef.current, {
+      y: -5,
+      borderColor: "rgba(34, 197, 94, 0.4)", // Subtle green glow
+      backgroundColor: "rgba(38, 38, 38, 0.8)",
+      duration: 0.3
+    });
+  };
+
+  const onMouseLeave = () => {
+    gsap.to(cardRef.current, {
+      y: 0,
+      borderColor: "rgba(255, 255, 255, 0.05)",
+      backgroundColor: "rgba(23, 23, 23, 0.5)",
+      duration: 0.3
+    });
+  };
 
   return (
-    <motion.div
-      className="border p-7 rounded-xl bg-neutral-900 drop-shadow-md border-neutral-800/50 flex flex-col gap-y-10 justify-between"
-      initial={{ opacity: 0, y: 50 }}
-      animate={controls}
-      ref={ref}
+    <div
+      ref={cardRef}
+      onMouseEnter={onMouseEnter}
+      onMouseLeave={onMouseLeave}
+      className="relative p-8 rounded-[2rem] bg-neutral-900/50 backdrop-blur-sm border border-white/5 flex flex-col justify-between gap-8 h-full transition-colors"
     >
-      <div className="flex flex-col gap-y-3.5">
-        <p className="font-bold text-xl text-white flex items-center gap-2">
-          <FaQuoteLeft className="text-yellow-400" />
+      <div className="space-y-4">
+        <FaQuoteLeft className="text-green-500 text-2xl opacity-50" />
+        <h3 className="text-xl font-bold text-white leading-tight">
           {testimonial.title}
-          <FaQuoteRight className="text-yellow-400" />
+        </h3>
+        <p className="text-zinc-400 leading-relaxed font-medium">
+          {testimonial.description}
         </p>
-        <p className="font-medium text-white">{testimonial.description}</p>
       </div>
-      <div className="flex flex-col">
-        <div className="flex items-center">
-          <Image
-            src={testimonial.image}
-            alt={testimonial.name}
-            width={40}
-            height={40}
-            className="rounded-full"
-          />
-          <div className="ml-3">
-            <p className="text-sm font-semibold text-white">
-              {testimonial.name}
-            </p>
-            <p className="text-sm font-medium text-slate-100/70">
-              {testimonial.role}
-            </p>
+
+      <div className="flex flex-col gap-4">
+        <div className="flex items-center gap-3">
+          <div className="relative h-12 w-12 rounded-full overflow-hidden border border-white/10">
+            <Image
+              src={testimonial.image}
+              alt={testimonial.name}
+              fill
+              className="object-cover"
+              onError={(e) => {
+                (e.target as HTMLImageElement).src = `https://ui-avatars.com/api/?name=${testimonial.name}&background=22c55e&color=fff`;
+              }}
+            />
+          </div>
+          <div>
+            <p className="text-sm font-bold text-white">{testimonial.name}</p>
+            <p className="text-xs font-medium text-zinc-500">{testimonial.role}</p>
           </div>
         </div>
-        <div className="flex mt-2">
+        <div className="flex gap-1">
           {[...Array(5)].map((_, i) => (
-            <FaStar key={i} className="text-yellow-400" />
+            <FaStar key={i} className="text-green-500 text-xs" />
           ))}
         </div>
       </div>
-    </motion.div>
+    </div>
   );
 };
 
 const TestimonialWall: React.FC = () => {
+  const containerRef = useRef<HTMLDivElement>(null);
+
   return (
-    <div className="bg-neutral-950 py-10">
-      <section className="max-w-5xl mx-auto w-full px-10">
-        <div className="flex items-center justify-center flex-col gap-y-2 py-5">
-          <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold max-w-md mx-auto text-center text-white">
-            Here&apos;s what our
-            <span className="text-[#45B3BA]"> customers </span> have to say
+    <div className="bg-[#050505] py-24 overflow-hidden">
+      <section ref={containerRef} className="max-w-7xl mx-auto px-6">
+        
+        {/* Header Section */}
+        <div className="flex flex-col items-center mb-20 text-center">
+          <span className="text-green-500 font-black uppercase tracking-[0.3em] text-[10px] mb-4">
+            Testimonials
+          </span>
+          <h2 className="text-4xl md:text-6xl font-black text-white tracking-tighter mb-6">
+            Trusted by <span className="text-zinc-500">Thousands.</span>
           </h2>
-          <p className="text-lg font-medium text-slate-400/70">
-            Explore the benefits of our books
+          <p className="text-zinc-500 max-w-lg font-medium">
+            Developers from around the world use our guides to master new languages and crush technical interviews.
           </p>
         </div>
-        <div className="grid grid-cols-1 lg:grid-cols-5 gap-5 w-full">
-          <div className="col-span-2 flex flex-col gap-y-10">
-            {testimonials.slice(0, 2).map((testimonial, index) => (
-              <TestimonialCard key={index} testimonial={testimonial} />
-            ))}
+
+        {/* Responsive Masonry Grid */}
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-6 items-start">
+          {/* Column 1 */}
+          <div className="lg:col-span-4 flex flex-col gap-6">
+            <TestimonialCard testimonial={testimonials[0]} />
+            <TestimonialCard testimonial={testimonials[1]} />
           </div>
-          <div className="col-span-3 flex flex-col gap-y-10">
-            {testimonials.slice(2).map((testimonial, index) => (
-              <TestimonialCard key={index} testimonial={testimonial} />
-            ))}
+          
+          {/* Column 2 (Taller middle column) */}
+          <div className="lg:col-span-5 flex flex-col gap-6">
+            <TestimonialCard testimonial={testimonials[2]} />
+            <div className="p-8 rounded-[2rem] bg-green-500 flex flex-col justify-center items-center text-center gap-4 text-black">
+               <h4 className="text-2xl font-black italic">Join the 1%</h4>
+               <p className="font-bold text-sm">Level up your coding career with our premium collection.</p>
+               <button className="mt-2 bg-black text-white px-6 py-2 rounded-full font-bold text-xs uppercase tracking-widest">Shop Now</button>
+            </div>
+          </div>
+
+          {/* Column 3 */}
+          <div className="lg:col-span-3 flex flex-col gap-6">
+            <TestimonialCard testimonial={testimonials[3]} />
+            <div className="border border-white/5 rounded-[2rem] p-8 flex flex-col items-center justify-center">
+                <p className="text-4xl font-black text-white">4.9/5</p>
+                <p className="text-zinc-500 font-bold text-xs uppercase mt-2">Average Rating</p>
+            </div>
           </div>
         </div>
       </section>
