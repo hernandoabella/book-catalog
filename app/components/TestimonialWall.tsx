@@ -146,7 +146,7 @@ const TestimonialWall: React.FC = () => {
             Testimonials
           </span>
           <h2 className="text-4xl md:text-6xl font-black text-white tracking-tighter mb-6">
-            Trusted by <span className="text-zinc-500">Thousands.</span>
+            Trusted by <span className="text-zinc-500">Developers.</span>
           </h2>
           <p className="text-zinc-500 max-w-lg font-medium">
             Developers from around the world use our guides to master new languages and crush technical interviews.
