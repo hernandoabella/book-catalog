@@ -1,6 +1,4 @@
 # Book Catalog
-All the books i've done 
-
 ### Algorithms and Data Structures
 | | | | |
 | --- | --- | --- | --- |
