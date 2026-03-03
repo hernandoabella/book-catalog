@@ -1,4 +1,5 @@
 # Book Catalog
+Discover new books:
 ### Algorithms and Data Structures
 | | | | |
 | --- | --- | --- | --- |
